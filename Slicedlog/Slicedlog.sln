@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slicedlog.Core", "Slicedlog.Core\Slicedlog.Core.csproj", "{078F2BF6-AA37-4414-B582-B100580A9E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slicedlog.QuickStart", "Slicedlog.QuickStart\Slicedlog.QuickStart.csproj", "{81095FB0-F7E7-467A-873E-22815069B0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078F2BF6-AA37-4414-B582-B100580A9E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078F2BF6-AA37-4414-B582-B100580A9E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078F2BF6-AA37-4414-B582-B100580A9E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078F2BF6-AA37-4414-B582-B100580A9E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81095FB0-F7E7-467A-873E-22815069B0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81095FB0-F7E7-467A-873E-22815069B0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81095FB0-F7E7-467A-873E-22815069B0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81095FB0-F7E7-467A-873E-22815069B0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39EF15C8-2725-4077-B883-C970BD7DFD32}
+	EndGlobalSection
+EndGlobal
